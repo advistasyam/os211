@@ -1,5 +1,15 @@
 # os211
 Operating Systems 2021-1 
 
+## Operating Systems 2021-1 (Semester Genap 2020/2021)
+**advistasyam maintain os211**
+
+* [KEY](https://advistasyam.github.io/os211/TXT/mypubkey.txt)
+* [RANK](https://advistasyam.github.io/os211/TXT/myrank.txt)
+* [OS211 Github Repository](https://github.com/advistasyam/os211/)
+* [OS211 Github Page](https://advistasyam.github.io/os211/)
+* [OS211 Log](https://advistasyam.github.io/os211/TXT/mylog.txt)
+
 ## Operating System Weekly Top Ten List
 * [Week 01](W01/)
+* [Week 02](W02/) - Security, Protection, Privacy
