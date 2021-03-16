@@ -2,7 +2,7 @@
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 # https://www.youtube.com/watch?v=KAXK07ni9gU
 
-FILES="my.txt my.sh"
+FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 echo "rm -f $SHA $SHA.asc"

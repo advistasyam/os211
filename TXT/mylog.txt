@@ -16,3 +16,12 @@ ZCZC W01 20 L05 GSGS for assingment1
 ZCZC W01 120 L21 install Virtualbox
 ZCZC W01 160 L11 Assignment #1 (Top 10 Links)
 ZCZC W01 30 L25 C-language: study from (https://tlx.toki.id/courses/basic)
+ZCZC W02 100 L02 Attend zoom meeting about security
+ZCZC W02 30 L06 Reading OSC10 chap 16 for week02 material
+ZCZC W02 30 L10 Reading my neighbor top 10 link and rank them
+ZCZC W02 120 L10 export mypublic.txt, atm from https://mcdumbdumb.github.io/
+ZCZC W02 180 L05 GSGS for my top 10 link of the week
+ZCZC W02 30 L11 Assignment #1
+ZCZC W02 70 L23 Discord discussion about security and sha256
+ZCZC W02 30 L22 youtube: learning basic gpg and definition
+ZCZC W02 30 L26 Movie: relax and watch attack on titan episode 12
