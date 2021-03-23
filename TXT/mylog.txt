@@ -25,3 +25,14 @@ ZCZC W02 30 L11 Assignment #1
 ZCZC W02 70 L23 Discord discussion about security and sha256
 ZCZC W02 30 L22 youtube: learning basic gpg and definition
 ZCZC W02 30 L26 Movie: relax and watch attack on titan episode 12
+ZCZC W03 100 L02 Attend zoom meeting about file system
+ZCZC W03 35 L06 Reading OSC10 chap 13
+ZCZC W03 35 L06 Reading OSC10 chap 14
+ZCZC W03 35 L06 Reading OSC10 chap 15
+ZCZC W03 30 L10 Reading my neighbor top 10 link and rank them
+ZCZC W03 100 L10 trying demo week02 and week03
+ZCZC W03 180 L05 GSGS for my top 10 link of the week
+ZCZC W03 40 L11 download w03 tar bz2 and extract w03-fuse
+ZCZC W03 20 L12 updating my bash script to automate tarball encryption process
+ZCZC W03 30 L22 youtube: learning windows file system (ntfs) and mac file system (apfs)
+ZCZC W03 30 L26 Movie: relax and watch attack on titan episode 13

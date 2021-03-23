@@ -1,9 +1,6 @@
 #!/bin/bash
 # Cicak bin Kadal
 # Tue 13 Oct 2020 10:37:14 AM WIB
-
-FILES="my*.txt my*.sh"
-SHA="SHA256SUM"#!/bin/bash
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 # https://www.youtube.com/watch?v=KAXK07ni9gU
 
@@ -62,16 +59,3 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
-
-# Copyright (C) 2020-2021 Cicak Bin Kadal
-# https://www.youtube.com/watch?v=KAXK07ni9gU
-
-# This free document is distributed in the hope that it will be 
-# useful, but WITHOUT ANY WARRANTY; without even the implied 
-# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-# REV04 Mon 15 Mar 19:27:52 WIB 2021
-# REV03 Sun 14 Mar 18:21:27 WIB 2021
-# REV02 Fri 12 Mar 13:40:58 WIB 2021
-# REV01 Tue 13 Oct 10:37:14 WIB 2020
-# START Mon 28 Sep 21:05:04 WIB 2020
