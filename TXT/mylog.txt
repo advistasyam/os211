@@ -36,3 +36,12 @@ ZCZC W03 40 L11 download w03 tar bz2 and extract w03-fuse
 ZCZC W03 20 L12 updating my bash script to automate tarball encryption process
 ZCZC W03 30 L22 youtube: learning windows file system (ntfs) and mac file system (apfs)
 ZCZC W03 30 L26 Movie: relax and watch attack on titan episode 13
+ZCZC W04 100 L02 Attend zoom meeting
+ZCZC W04 75 L06 Reading OSC10 chap 09
+ZCZC W04 30 L10 Reading my neighbor top 10 link and rank them
+ZCZC W04 100 L10 trying demo week04
+ZCZC W04 180 L05 GSGS for my top 10 link of the week
+ZCZC W04 40 L11 download WEEK04 tar bz2 and run 000-README.TXT
+ZCZC W04 20 L12 update myscript.sh to automate encryption
+ZCZC W04 30 L22 youtube: learning c pointer
+ZCZC W04 30 L26 Movie: relax and watch jujutsu kaisen episode 1
