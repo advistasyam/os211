@@ -54,3 +54,12 @@ ZCZC W05 40 L11 download WEEK05 tar bz2 asc and run 001-README.txt
 ZCZC W05 20 L12 update myscript.sh to automate encryption
 ZCZC W05 30 L22 youtube: learning virtual memory
 ZCZC W05 30 L26 Movie: relax and watch jujutsu kaisen episode 2
+ZCZC W06 100 L02 Attend zoom meeting
+ZCZC W06 75 L06 Reading OSC10 chap 3 and 4 about concurrency
+ZCZC W06 35 L10 Reading my neighbor top 10 link and rank them
+ZCZC W06 100 L10 trying demo week06
+ZCZC W06 180 L05 GSGS for my top 10 link of the week
+ZCZC W06 40 L11 download WEEK06 tar bz2 asc and run 000-README.txt
+ZCZC W06 20 L12 update myscript.sh to automate encryption
+ZCZC W06 30 L22 youtube: learning processes and threads
+ZCZC W06 30 L26 Movie: relax and watch jujutsu kaisen episode 3
