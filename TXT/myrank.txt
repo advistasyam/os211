@@ -13,3 +13,6 @@ ZCZC W04 amandacarrisa
 ZCZC W05 galacticor
 ZCZC W05 Sasfort
 ZCZC W05 aryudaokta
+ZCZC W06 aryudaokta
+ZCZC W06 Sasfort
+ZCZC W06 galacticor

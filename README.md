@@ -17,3 +17,4 @@ Operating Systems 2021-1
 * [Week 04](W04/) - Addressing, Shared Lib, & Pointer
 * [Week 05](W05/) - Virtual Memory
 * [Week 06](W06/) - Concurrency: Processes & Threads
+* [Week 07](W07/) - Synchronization
