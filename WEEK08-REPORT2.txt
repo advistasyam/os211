@@ -1,0 +1,19 @@
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             2005712       0   2005712   0% /dev
+tmpfs             404120    5504    398616   2% /run
+/dev/sda2       65543732 1689396  60495104   3% /
+tmpfs            2020584       0   2020584   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            2020584       0   2020584   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             404116       0    404116   0% /run/user/0
+tmpfs             404116       0    404116   0% /run/user/1001
+ZCZC pwd
+/home/advistasyam/RESULT/W08
+ZCZC date
+Sun 09 May 2021 10:56:59 PM WIB
+ZCZC hostname
+advistasyam
+ZCZC chktoken
+advistasyam 5659-D2C1
