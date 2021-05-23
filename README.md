@@ -19,3 +19,4 @@ Operating Systems 2021-1
 * [Week 06](W06/) - Concurrency: Processes & Threads
 * [Week 07](W07/) - Synchronization
 * [Week 08](W08/) - Scheduling
+* [Week 09](W09/) - Storage, Firmware, Bootloader, & Systemd
